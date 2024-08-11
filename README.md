@@ -18,7 +18,7 @@ cd Student-Management-System
 ```
 ### Compile the program:
 ```
-gcc -o student_management main.c heap.c hash.c -I.
+gcc -o student_management main.c heap.c hash_table.c -I.
 ```
 ### Run the program:
 ```
