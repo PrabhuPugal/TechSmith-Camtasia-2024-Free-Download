@@ -54,3 +54,18 @@ update_grade <student_id> <new_grade>
 
 Manage Attendance:
 update_attendance <student_id> <attendance_percentage>
+
+## Contributing
+Contributions are welcome! If you would like to contribute to the development of the Student Management System, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test thoroughly.
+4. Submit a pull request with a clear description of the changes.
+5. Please ensure that your code adheres to the project's coding standards and includes appropriate documentation.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For questions or feedback, please reach out to me at prabhupugal01@gmail.com.
